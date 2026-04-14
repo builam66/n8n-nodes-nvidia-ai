@@ -50,5 +50,9 @@
     },
     "dependencies": {
         "openai": "^6.34.0"
+    },
+    "publishConfig": {
+        "access": "public",
+        "provenance": true
     }
 }
